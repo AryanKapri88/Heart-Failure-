@@ -25,7 +25,7 @@ The dataset includes information on clinical indicators and patient characterist
 
 `main_code.ipynb`: Jupyter Notebook containing the code for data exploration, model training, and evaluation.
 
-`heart_failure.csv`: California housing dataset.
+`heart_failure.csv`: Heart Failure Prediction dataset.
 
 `requirements.txt`: List of required Python packages.
 
